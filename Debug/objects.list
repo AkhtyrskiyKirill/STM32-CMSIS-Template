@@ -1,0 +1,5 @@
+"./Application/Core/Src/main.o"
+"./Application/Core/Src/syscalls.o"
+"./Application/Core/Src/sysmem.o"
+"./Drivers/CMSIS/Src/system_stm32f4xx.o"
+"./Startup/startup_stm32f429xx.o"
